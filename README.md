@@ -5,20 +5,20 @@
 
 ## Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Problem Statement](#-problem-statement)
+- [Project Overview]
+- [Problem Statement]
 - [Dashboards](#-dashboards)
   - [Dashboard 1 — Summary](#dashboard-1--summary)
   - [Dashboard 2 — Overview](#dashboard-2--overview)
   - [Dashboard 3 — Details](#dashboard-3--details)
-- [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
-- [Good Loan vs Bad Loan Analysis](#-good-loan-vs-bad-loan-analysis)
-- [Charts & Visualisations](#-charts--visualisations)
-- [Data Fields & Terminologies](#-data-fields--terminologies)
-- [Domain Knowledge](#-domain-knowledge)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
-- [Screenshots](#-screenshots)
+- [Key Performance Indicators (KPIs)]
+- [Good Loan vs Bad Loan Analysis]
+- [Charts & Visualisations]
+- [Data Fields & Terminologies]
+- [Domain Knowledge]
+- [Tech Stack]
+- [Getting Started]
+- [Screenshots]
 
 ---
 
