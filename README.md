@@ -86,6 +86,9 @@ Includes:
 > A consolidated, drill-through table view of all loan records — a one-stop solution for accessing complete borrower and loan-level data.
 
 ![Dashboard 3 - Details](images/dashboard_details.png)
+![Dashboard 3 - Details1](images/dashboard_details1.png)
+![Dashboard 3 - Details2](images/dashboard_details2.png)
+![Dashboard 3 - Details3](images/dashboard_details3.png)
 
 Includes:
 - Full loan data grid with filters
@@ -240,40 +243,6 @@ Application → Review → Identity Check → Credit Check → Income Verificati
 
 ## Getting Started
 
-### Prerequisites
-- Microsoft Excel 2016 or later (with pivot table & chart support)
-- The loan dataset (CSV / Excel format)
-
-### Steps
-
-1. Clone this repository
-   ```undefined
-undefined
-bash
-   git clone https://github.com/your-username/bank-loan-report-dashboard.git
-   cd bank-loan-report-dashboard
-```undefined
-2. Open the Excel file   
-```
-   Open Bank_Loan_Report.xlsx in Microsoft Excel
-   
-```
-
-
-3. Enable Macros (if prompted)
-   - Click Enable Content when Excel asks about macros/active content
-
-4. Connect or paste your data
-   - Navigate to the Raw Data sheet
-   - Paste or import your updated loan dataset
-
-5. Refresh Pivot Tables
-   - Press Ctrl + Alt + F5 to refresh all pivot tables and charts at once
-
-6. Explore the dashboards
-   - Navigate between the Summary, Overview, and Details tabs at the bottom
-
----
 
 ## Screenshots
 
@@ -317,14 +286,6 @@ bank-loan-report-dashboard/
 ## Acknowledgements
 
 - Domain knowledge and problem statement based on real-world banking analytics use cases
-- Inspired by the Data Tutorials YouTube channel
-
----
-
-## License
-
-This project is for educational and portfolio purposes.  
-Feel free to fork, explore, and build upon it!
 
 ---
 
