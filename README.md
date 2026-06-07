@@ -1,7 +1,6 @@
 # Bank Loan Report Dashboard
 
-> A comprehensive Power BI dashboard for monitoring, analysing, and visualising bank lending activities, loan portfolio health, and borrower insights — powered by real-world financial KPIs.
-
+> A comprehensive Excel dashboard for monitoring, analysing, and visualising bank lending activities, loan portfolio health, and borrower insights — powered by real-world financial KPIs.
 ---
 
 ## Table of Contents
@@ -285,8 +284,11 @@ bank-loan-report-excel-dashboard/
 
 ## Acknowledgements
 
-- Domain knowledge and problem statement based on real-world banking analytics use cases
+## Acknowledgements
+
+- Dataset sourced from [Kaggle](https://www.kaggle.com/) — used for analytical and educational purposes.
+- Domain knowledge and problem statement inspired by YouTube tutorials on financial dashboard development.
 
 ---
 
-*Made with passion for data analytics and financial insights*
+*Designed to reflect production-level financial dashboards used in the banking industry.*
