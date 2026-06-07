@@ -7,7 +7,7 @@
 
 - [Project Overview]
 - [Problem Statement]
-- [Dashboards](#-dashboards)
+- [Dashboards]
   - [Dashboard 1 — Summary](#dashboard-1--summary)
   - [Dashboard 2 — Overview](#dashboard-2--overview)
   - [Dashboard 3 — Details](#dashboard-3--details)
