@@ -241,12 +241,9 @@ Application → Review → Identity Check → Credit Check → Income Verificati
 
 ---
 
-## Getting Started
-
 
 ## Screenshots
 
-> *Add your actual dashboard screenshots to the images/ folder and update the paths below accordingly.*
 
 | Dashboard | Preview |
 |-----------|---------|
@@ -258,8 +255,8 @@ Application → Review → Identity Check → Credit Check → Income Verificati
 
 ## Project Structure
 
-```undefined
-bank-loan-report-dashboard/
+```
+bank-loan-report-excel-dashboard/
 │
 ├── Bank_Loan_Report.xlsx        # Main Excel dashboard file
 ├── data/
@@ -268,6 +265,9 @@ bank-loan-report-dashboard/
 │   ├── dashboard_summary.png
 │   ├── dashboard_overview.png
 │   ├── dashboard_details.png
+│   ├── dashboard_details1.png
+│   ├── dashboard_details2.png
+│   ├── dashboard_details3.png
 │   ├── chart_monthly_trends.png
 │   ├── chart_regional_map.png
 │   ├── chart_loan_term.png
